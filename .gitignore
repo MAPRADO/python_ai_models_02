@@ -1,0 +1,5 @@
+# ignore all .pdf files
+*.pdf
+novos.csv
+id_inteligencia_2
+id_inteligencia_2.pub
